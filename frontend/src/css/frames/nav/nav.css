@@ -40,13 +40,8 @@ nav .bi.bi-search {
     margin: 0 1rem;
 }
 
-nav input[type="text"] {
-    border: none;
-    outline: none;
-}
-
 nav .btn {
-    width: 6rem;
+    width: 8rem;
     color: var(--color-white);
     border-radius: var(--btn-border-radius);
     padding: var(--btn-padding);
@@ -56,4 +51,12 @@ nav .btn {
 
 nav .btn-primary {
     background-color: var(--color-primary);
+}
+
+nav .create {
+    display: flex;
+    width: 14rem;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 1rem;
 }

@@ -5,4 +5,11 @@
 
 /* frames */
 @import "./src/css/frames/nav/nav.css";
+@import "./src/css/frames/main/main-left.css";
+@import "./src/css/frames/main/main-middle.css";
+@import "./src/css/frames/main/main-right.css";
+
+
+/* components */
+@import "./src/css/components/profile.css";
 

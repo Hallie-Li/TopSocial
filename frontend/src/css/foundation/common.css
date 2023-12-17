@@ -9,4 +9,16 @@
     --btn-padding: 0.6rem 2rem;
     --btn-border-radius: 2rem;
     --mainright-margin: 0.5rem;
+    --border-radius: 1.5rem;
+}
+
+
+.container {
+   display: flex;
+   width: 100%;
+   height: 95vh;
+   gap: 1rem;
+   padding: 1rem 2rem;
+   box-sizing: border-box;
+   background-color: var(--color-white);
 }
